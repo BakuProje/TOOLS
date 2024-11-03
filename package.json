@@ -1,0 +1,38 @@
+{
+  "name": "jscrambler-reverse",
+  "version": "1.0.0",
+  "description": "A project to beat JScrambler, a popular enterprise code obfuscator.",
+  "main": "index.js",
+  "dependencies": {
+    "got": "^12.1.0",
+    "patch-package": "^6.4.7",
+    "playwright": "^1.22.2",
+    "playwright-chromium": "^1.22.2",
+    "prettier": "^2.7.1",
+    "refactor-plugin-common": "^2.0.1",
+    "rimraf": "^3.0.2",
+    "scarbon": "^1.0.9",
+    "shift-ast": "^7.0.0",
+    "shift-codegen": "^8.0.0",
+    "shift-refactor": "^2.0.0",
+    "shiki": "^0.10.1",
+    "shiki-renderer-svg": "^0.10.1",
+    "unminify": "^2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "patch-package"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrew-healey/jscrambler-reverse.git"
+  },
+  "author": "Andrew Healey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrew-healey/jscrambler-reverse/issues"
+  },
+  "homepage": "https://github.com/andrew-healey/jscrambler-reverse#readme",
+  "type": "module"
+}

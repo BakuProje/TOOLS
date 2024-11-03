@@ -1,0 +1,270 @@
+{
+  "done": true,
+  "startCase": 2,
+  "cases": [
+    {
+      "id": 1,
+      "code": {
+        "code": "{}",
+        "svg": "<svg viewBox=\"0 0 118.7578125 215.59999999999997\" width=\"118.7578125\" height=\"215.59999999999997\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"118.7578125\" height=\"215.59999999999997\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 6,
+      "code": {
+        "code": "{\n  b5[0] = v7;\n}",
+        "svg": "<svg viewBox=\"0 0 277.1015625 246.39999999999998\" width=\"277.1015625\" height=\"246.39999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"277.1015625\" height=\"246.39999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#9CDCFE\">b5</tspan><tspan x=\"52.78125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"65.9765625\" fill=\"#B5CEA8\">0</tspan><tspan x=\"79.171875\" fill=\"#D4D4D4\">] = </tspan><tspan x=\"131.953125\" fill=\"#9CDCFE\">v7</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #D8DEE9\">b5</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #B48EAD\">0</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">v7</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 13,
+      "code": {
+        "code": "{\n  q$ -= 4;\n}",
+        "svg": "<svg viewBox=\"0 0 237.515625 246.39999999999998\" width=\"237.515625\" height=\"246.39999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"237.515625\" height=\"246.39999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"52.78125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\">-= </tspan><tspan x=\"105.5625\" fill=\"#B5CEA8\">4</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">4</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 14,
+      "code": {
+        "code": "{\n  return [k3, D0];\n}",
+        "svg": "<svg viewBox=\"0 0 343.078125 246.39999999999998\" width=\"343.078125\" height=\"246.39999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"343.078125\" height=\"246.39999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#C586C0\">return</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"131.953125\" fill=\"#9CDCFE\">k3</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">, </tspan><tspan x=\"184.734375\" fill=\"#4FC1FF\">D0</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">return</span><span style=\"color: #D8DEE9FF\"> [</span><span style=\"color: #D8DEE9\">k3</span><span style=\"color: #ECEFF4\">,</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">D0</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 2,
+      "code": {
+        "code": "{\n  var q$ = C9[\"length\"] - 1;\n}",
+        "svg": "<svg viewBox=\"0 0 475.03125 246.39999999999998\" width=\"475.03125\" height=\"246.39999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"475.03125\" height=\"246.39999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#569CD6\">var</tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#CE9178\">&quot;length&quot;</tspan><tspan x=\"290.296875\" fill=\"#D4D4D4\">] - </tspan><tspan x=\"343.078125\" fill=\"#B5CEA8\">1</tspan><tspan x=\"356.2734375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #A3BE8C\">length</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 9,
+      "code": {
+        "code": "{\n  var k3 = C9[q$ - 1];\n  var D0 = C9[q$];\n  b5[\"length\"] = 1;\n}",
+        "svg": "<svg viewBox=\"0 0 395.859375 308\" width=\"395.859375\" height=\"308\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"395.859375\" height=\"308\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#569CD6\">var</tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">k3</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">- </tspan><tspan x=\"250.7109375\" fill=\"#B5CEA8\">1</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#569CD6\">var</tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">D0</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"123.19999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#9CDCFE\">b5</tspan><tspan x=\"52.78125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"65.9765625\" fill=\"#CE9178\">&quot;length&quot;</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">] = </tspan><tspan x=\"224.3203125\" fill=\"#B5CEA8\">1</tspan><tspan x=\"237.515625\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"154\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">k3</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">D0</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #D8DEE9\">b5</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #A3BE8C\">length</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 5,
+      "code": {
+        "code": "{\n  var p1 = C9[q$ - 3];\n  var Z3 = C9[q$ - 2];\n}",
+        "svg": "<svg viewBox=\"0 0 395.859375 277.2\" width=\"395.859375\" height=\"277.2\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"395.859375\" height=\"277.2\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#569CD6\">var</tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">p1</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">- </tspan><tspan x=\"250.7109375\" fill=\"#B5CEA8\">3</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#569CD6\">var</tspan><tspan x=\"65.9765625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">Z3</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">- </tspan><tspan x=\"250.7109375\" fill=\"#B5CEA8\">2</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"123.19999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">p1</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">3</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">Z3</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">2</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 12,
+      "code": {
+        "code": "{\n  return null;\n}",
+        "svg": "<svg viewBox=\"0 0 290.296875 246.39999999999998\" width=\"290.296875\" height=\"246.39999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"290.296875\" height=\"246.39999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#C586C0\">return</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#569CD6\">null</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">return</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">null;</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 3,
+      "code": {
+        "code": "{}",
+        "svg": "<svg viewBox=\"0 0 118.7578125 215.59999999999997\" width=\"118.7578125\" height=\"215.59999999999997\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"118.7578125\" height=\"215.59999999999997\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{}</span></span></code></pre>"
+      }
+    },
+    {
+      "id": 11,
+      "code": {
+        "code": "{}",
+        "svg": "<svg viewBox=\"0 0 118.7578125 215.59999999999997\" width=\"118.7578125\" height=\"215.59999999999997\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"118.7578125\" height=\"215.59999999999997\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">{</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+        "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #ECEFF4\">{}</span></span></code></pre>"
+      }
+    }
+  ],
+  "edges": [
+    [
+      1,
+      5
+    ],
+    [
+      1,
+      12
+    ],
+    [
+      6,
+      14
+    ],
+    [
+      13,
+      1
+    ],
+    [
+      2,
+      1
+    ],
+    [
+      9,
+      6
+    ],
+    [
+      5,
+      3
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      3,
+      13
+    ]
+  ],
+  "steps": [
+    {
+      "nodesDeleted": [
+        11
+      ],
+      "edgesAdded": [],
+      "editedNodes": [],
+      "type": "Dead Code"
+    },
+    {
+      "nodesDeleted": [
+        3
+      ],
+      "edgesAdded": [
+        [
+          5,
+          9
+        ],
+        [
+          5,
+          13
+        ]
+      ],
+      "editedNodes": [
+        {
+          "id": 5,
+          "code": {}
+        }
+      ],
+      "type": "Sequential Statement"
+    },
+    {
+      "nodesDeleted": [
+        6
+      ],
+      "edgesAdded": [
+        [
+          9,
+          14
+        ]
+      ],
+      "editedNodes": [
+        {
+          "id": 9,
+          "code": {}
+        }
+      ],
+      "type": "Sequential Statement"
+    },
+    {
+      "nodesDeleted": [
+        14
+      ],
+      "edgesAdded": [],
+      "editedNodes": [
+        {
+          "id": 9,
+          "code": {}
+        }
+      ],
+      "type": "Sequential Statement"
+    },
+    {
+      "nodesDeleted": [
+        12
+      ],
+      "edgesAdded": [],
+      "editedNodes": [
+        {
+          "id": 1,
+          "code": {}
+        }
+      ],
+      "type": "If Statement"
+    },
+    {
+      "nodesDeleted": [
+        5
+      ],
+      "edgesAdded": [
+        [
+          1,
+          9
+        ],
+        [
+          1,
+          13
+        ]
+      ],
+      "editedNodes": [
+        {
+          "id": 1,
+          "code": {}
+        }
+      ],
+      "type": "Sequential Statement"
+    },
+    {
+      "nodesDeleted": [
+        9,
+        13
+      ],
+      "edgesAdded": [
+        [
+          1,
+          1
+        ]
+      ],
+      "editedNodes": [
+        {
+          "id": 1,
+          "code": {}
+        }
+      ],
+      "type": "If-Else Statement"
+    },
+    {
+      "nodesDeleted": [],
+      "edgesAdded": [],
+      "editedNodes": [
+        {
+          "id": 1,
+          "code": {}
+        }
+      ],
+      "type": "Infinite Loop"
+    },
+    {
+      "nodesDeleted": [
+        1
+      ],
+      "edgesAdded": [],
+      "editedNodes": [
+        {
+          "id": 2,
+          "code": {}
+        }
+      ],
+      "type": "Sequential Statement"
+    }
+  ],
+  "code": {
+    "code": "var E8 = 2;\nfor (; E8 !== 11;) {\n  switch (E8) {\n    case 1:\n      E8 = q$ >= 0 ? 5 : 12;\n      break;\n    case 6:\n      b5[0] = v7;\n      E8 = 14;\n      break;\n    case 13:\n      q$ -= 4;\n      E8 = 1;\n      break;\n    case 14:\n      return [k3, D0];\n      break;\n    case 2:\n      var q$ = C9[\"length\"] - 1;\n      E8 = 1;\n      break;\n    case 9:\n      var k3 = C9[q$ - 1];\n      var D0 = C9[q$];\n      b5[\"length\"] = 1;\n      E8 = 6;\n      break;\n    case 5:\n      var p1 = C9[q$ - 3];\n      var Z3 = C9[q$ - 2];\n      E8 = 3;\n      break;\n    case 12:\n      return null;\n      break;\n    case 3:\n      E8 = z_ > p1 && z_ <= Z3 ? 9 : 13;\n      break;\n  }\n}\n",
+    "svg": "<svg viewBox=\"0 0 633.375 1385.9999999999998\" width=\"633.375\" height=\"1385.9999999999998\" xmlns=\"http://www.w3.org/2000/svg\">\n<rect id=\"bg\" fill=\"#1E1E1E\" width=\"633.375\" height=\"1385.9999999999998\" rx=\"12\"></rect><g id=\"tokens\" transform=\"translate(52.78125, 61.599999999999994)\"><text font-family=\"Consolas\" font-size=\"24\" y=\"30.799999999999997\">\n<tspan x=\"0\" fill=\"#569CD6\">var</tspan><tspan x=\"39.5859375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"52.78125\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"79.171875\" fill=\"#D4D4D4\"> </tspan><tspan x=\"92.3671875\" fill=\"#D4D4D4\">= </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">2</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"61.599999999999994\">\n<tspan x=\"0\" fill=\"#C586C0\">for</tspan><tspan x=\"39.5859375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"52.78125\" fill=\"#D4D4D4\">(; </tspan><tspan x=\"92.3671875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">!== </tspan><tspan x=\"184.734375\" fill=\"#B5CEA8\">11</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\">; ) {</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"92.39999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#C586C0\">switch</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">(</tspan><tspan x=\"131.953125\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">) {</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"123.19999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">1</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"154\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"184.734375\" fill=\"#D4D4D4\">&gt;= </tspan><tspan x=\"224.3203125\" fill=\"#B5CEA8\">0</tspan><tspan x=\"237.515625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"250.7109375\" fill=\"#D4D4D4\">? </tspan><tspan x=\"277.1015625\" fill=\"#B5CEA8\">5</tspan><tspan x=\"290.296875\" fill=\"#D4D4D4\"> </tspan><tspan x=\"303.4921875\" fill=\"#D4D4D4\">: </tspan><tspan x=\"329.8828125\" fill=\"#B5CEA8\">12</tspan><tspan x=\"356.2734375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"184.79999999999998\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"215.59999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">6</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"246.39999999999998\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">b5</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">0</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">] = </tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">v7</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"277.2\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#B5CEA8\">14</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"308\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"338.79999999999995\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">13</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"369.59999999999997\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">-= </tspan><tspan x=\"158.34375\" fill=\"#B5CEA8\">4</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"400.4\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#B5CEA8\">1</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"431.19999999999993\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"461.99999999999994\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">14</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"492.79999999999995\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">return</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"184.734375\" fill=\"#9CDCFE\">k3</tspan><tspan x=\"211.125\" fill=\"#D4D4D4\">, </tspan><tspan x=\"237.515625\" fill=\"#4FC1FF\">D0</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"523.5999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"554.4\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">2</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"585.1999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#569CD6\">var</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">= </tspan><tspan x=\"197.9296875\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"237.515625\" fill=\"#CE9178\">&quot;length&quot;</tspan><tspan x=\"343.078125\" fill=\"#D4D4D4\">] - </tspan><tspan x=\"395.859375\" fill=\"#B5CEA8\">1</tspan><tspan x=\"409.0546875\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"616\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#B5CEA8\">1</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"646.8\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"677.5999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">9</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"708.4\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#569CD6\">var</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#9CDCFE\">k3</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">= </tspan><tspan x=\"197.9296875\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"237.515625\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"277.1015625\" fill=\"#D4D4D4\">- </tspan><tspan x=\"303.4921875\" fill=\"#B5CEA8\">1</tspan><tspan x=\"316.6875\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"739.1999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#569CD6\">var</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#4FC1FF\">D0</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">= </tspan><tspan x=\"197.9296875\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"237.515625\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"769.9999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#9CDCFE\">b5</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\">[</tspan><tspan x=\"118.7578125\" fill=\"#CE9178\">&quot;length&quot;</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">] = </tspan><tspan x=\"277.1015625\" fill=\"#B5CEA8\">1</tspan><tspan x=\"290.296875\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"800.8\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#B5CEA8\">6</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"831.5999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"862.3999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">5</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"893.1999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#569CD6\">var</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#9CDCFE\">p1</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">= </tspan><tspan x=\"197.9296875\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"237.515625\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"277.1015625\" fill=\"#D4D4D4\">- </tspan><tspan x=\"303.4921875\" fill=\"#B5CEA8\">3</tspan><tspan x=\"316.6875\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"923.9999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#569CD6\">var</tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\"> </tspan><tspan x=\"131.953125\" fill=\"#4FC1FF\">Z3</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\">= </tspan><tspan x=\"197.9296875\" fill=\"#4FC1FF\">C9</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">[</tspan><tspan x=\"237.515625\" fill=\"#9CDCFE\">q$</tspan><tspan x=\"263.90625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"277.1015625\" fill=\"#D4D4D4\">- </tspan><tspan x=\"303.4921875\" fill=\"#B5CEA8\">2</tspan><tspan x=\"316.6875\" fill=\"#D4D4D4\">];</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"954.8\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#B5CEA8\">3</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"985.5999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1016.3999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">12</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1047.1999999999998\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">return</tspan><tspan x=\"158.34375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"171.5390625\" fill=\"#569CD6\">null</tspan><tspan x=\"224.3203125\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1078\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1108.8\">\n<tspan x=\"0\" fill=\"#D4D4D4\">    </tspan><tspan x=\"52.78125\" fill=\"#C586C0\">case</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#B5CEA8\">3</tspan><tspan x=\"131.953125\" fill=\"#D4D4D4\">:</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1139.6\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#4FC1FF\">E8</tspan><tspan x=\"105.5625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"118.7578125\" fill=\"#D4D4D4\">= </tspan><tspan x=\"145.1484375\" fill=\"#9CDCFE\">z_</tspan><tspan x=\"171.5390625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"184.734375\" fill=\"#D4D4D4\">&gt; </tspan><tspan x=\"211.125\" fill=\"#9CDCFE\">p1</tspan><tspan x=\"237.515625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"250.7109375\" fill=\"#D4D4D4\">&amp;&amp; </tspan><tspan x=\"290.296875\" fill=\"#9CDCFE\">z_</tspan><tspan x=\"316.6875\" fill=\"#D4D4D4\"> </tspan><tspan x=\"329.8828125\" fill=\"#D4D4D4\">&lt;= </tspan><tspan x=\"369.46875\" fill=\"#4FC1FF\">Z3</tspan><tspan x=\"395.859375\" fill=\"#D4D4D4\"> </tspan><tspan x=\"409.0546875\" fill=\"#D4D4D4\">? </tspan><tspan x=\"435.4453125\" fill=\"#B5CEA8\">9</tspan><tspan x=\"448.640625\" fill=\"#D4D4D4\"> </tspan><tspan x=\"461.8359375\" fill=\"#D4D4D4\">: </tspan><tspan x=\"488.2265625\" fill=\"#B5CEA8\">13</tspan><tspan x=\"514.6171875\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1170.3999999999999\">\n<tspan x=\"0\" fill=\"#D4D4D4\">      </tspan><tspan x=\"79.171875\" fill=\"#C586C0\">break</tspan><tspan x=\"145.1484375\" fill=\"#D4D4D4\">;</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1201.1999999999998\">\n<tspan x=\"0\" fill=\"#D4D4D4\">  </tspan><tspan x=\"26.390625\" fill=\"#D4D4D4\">}</tspan>\n</text>\n<text font-family=\"Consolas\" font-size=\"24\" y=\"1232\">\n<tspan x=\"0\" fill=\"#D4D4D4\">}</tspan>\n</text></g>\n</svg>\n",
+    "html": "<pre class=\"shiki\" style=\"background-color: #2e3440ff\"><code><span class=\"line\"><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">2</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #81A1C1\">for</span><span style=\"color: #D8DEE9FF\"> (</span><span style=\"color: #81A1C1\">;</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">!==</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">11</span><span style=\"color: #81A1C1\">;</span><span style=\"color: #D8DEE9FF\">) </span><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #81A1C1\">switch</span><span style=\"color: #D8DEE9FF\"> (</span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\">) </span><span style=\"color: #ECEFF4\">{</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">&gt;=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">0</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">?</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">5</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">:</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">12</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">6</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">b5</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #B48EAD\">0</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">v7</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">14</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">13</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">4</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">14</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">return</span><span style=\"color: #D8DEE9FF\"> [</span><span style=\"color: #D8DEE9\">k3</span><span style=\"color: #ECEFF4\">,</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">D0</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">2</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #A3BE8C\">length</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">9</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">k3</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">D0</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">b5</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #A3BE8C\">length</span><span style=\"color: #ECEFF4\">&quot;</span><span style=\"color: #D8DEE9FF\">] </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">1</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">6</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">5</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">p1</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">3</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">var</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">Z3</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">C9</span><span style=\"color: #D8DEE9FF\">[</span><span style=\"color: #D8DEE9\">q$</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">-</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">2</span><span style=\"color: #D8DEE9FF\">]</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">3</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">12</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">return</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">null;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">    </span><span style=\"color: #81A1C1\">case</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">3</span><span style=\"color: #ECEFF4\">:</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #D8DEE9\">E8</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">z_</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">&gt;</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">p1</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">&amp;&amp;</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">z_</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">&lt;=</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #D8DEE9\">Z3</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">?</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">9</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #81A1C1\">:</span><span style=\"color: #D8DEE9FF\"> </span><span style=\"color: #B48EAD\">13</span><span style=\"color: #81A1C1\">;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">      </span><span style=\"color: #81A1C1\">break;</span></span>\n<span class=\"line\"><span style=\"color: #D8DEE9FF\">  </span><span style=\"color: #ECEFF4\">}</span></span>\n<span class=\"line\"><span style=\"color: #ECEFF4\">}</span></span>\n<span class=\"line\"></span></code></pre>"
+  }
+}

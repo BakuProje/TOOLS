@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Document</title>
+    <style>
+      body, div {
+        overflow:hidden;
+        border:0px;
+        margin:0px;
+      }
+      #main {
+        overflow: hidden;
+        position: fixed;
+				width:80vw;
+				right:0px;
+				top:0px;
+      }
+      .nodes .circle circle {
+        fill: #1E1E1E;
+        stroke-width: 3;
+        stroke: white;
+      }
+
+      .nodes .circle circle.start {
+          stroke-width:5px;
+          stroke: green;
+      }
+
+      .links {
+        stroke: red;
+        stroke-width:5px;
+      }
+
+			.bar {
+
+				display:block;
+				position:fixed;
+				left:0px;
+				top:0px;
+				height:100vh;
+				width:20vw;
+				background:darkgray;
+
+				font-family: Helvetica, sans-serif;
+				font-size:1.25em;
+
+				padding:10px;
+
+				overflow:auto;
+			}
+
+			.bar * {
+				padding-top:10px;
+			}
+
+			.title {
+				font-size: 3em;
+			}
+
+			.subtitle {
+				font-size: 1.5em;
+				color:darkslategray;
+				margin-left:5px;
+			}
+
+			.narration {
+			}
+
+			.op {
+				border-top:black 1px solid;
+			}
+			.op:last-child {
+				padding-bottom:10px;
+				border-bottom:black 1px solid;
+			}
+
+			.op-title {
+				font-size:1em;
+				text-decoration: solid;
+			}
+			.op-desc {
+				font-size:0.8em;
+				color:darkslategray;
+			}
+
+			.op.current {
+				background:lightgray;
+			}
+    </style>
+  </head>
+  <body>
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <div id="main">
+      <div id="map">
+        <svg id="svg"></svg>
+      </div>
+    </div>
+		<div class="bar">
+			<div class="title">JUnscrambler</div>
+			<div class="subtitle">Reversing JScrambler's signature control flow obfuscation</div>
+			<div class="narration"></div>
+		</div>
+    <script src="src/viz.js"></script>
+  </body>
